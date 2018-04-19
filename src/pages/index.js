@@ -3,7 +3,7 @@ import Link from "gatsby-link";
 
 export default () => 
   <div style={{color : 'teal'}}>
-    <h1>Hello Jaunty!</h1>
+    <h1>Hello Ashish!</h1>
     <p>What a world!</p>
     <div>
       <p>Unsplash random image is cool :)</p>
