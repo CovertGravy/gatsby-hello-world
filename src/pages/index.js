@@ -5,7 +5,7 @@ export default () =>
   <div style={{color : 'teal'}}>
     <h1>Hello Gatsby!</h1>
     <p>What a world!</p>
-    <img src="https://source.unsplash.com/random/400x200" alt="" />
+    <img src="https://source.unsplash.com/random/400x200" alt="random" />
     <br/>
     <div>
       <Link to="/page-2/">link</Link>
