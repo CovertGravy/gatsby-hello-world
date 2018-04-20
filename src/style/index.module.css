@@ -17,4 +17,6 @@
 .covert{
   display: hidden;
   background: teal;
+  border:slateblue; 
+  position: absolute;
 }
