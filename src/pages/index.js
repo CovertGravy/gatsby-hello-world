@@ -2,6 +2,7 @@ import React from "react";
 import Link from "gatsby-link";
 
 import Box from "../components/box";
+import styles from "../style/index.module.css";
 
 export default () => 
   <div style={{color : 'teal'}}>
@@ -10,7 +11,7 @@ export default () =>
     <div>
       <p>Unsplash random image is cool :)</p>
       <Box>
-        <img src="https://source.unsplash.com/random/400x200" alt="random" />               
+        <img className={styles.image} src="https://source.unsplash.com/random/400x200" alt="random" />               
       </Box>
     </div>
     <br/>
