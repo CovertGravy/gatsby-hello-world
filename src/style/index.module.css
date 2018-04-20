@@ -14,9 +14,9 @@
   padding:16px;
 }
 
-.covert{
+.covertgravy{
   display: hidden;
   background: teal;
   border:slateblue; 
-  position: absolute;
+  color: slategray;
 }
