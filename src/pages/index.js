@@ -10,7 +10,7 @@ import {Button, Card, CardTitle} from "react-materialize";
 
 export default () => 
   <div style={{color : 'white', background: 'teal', margin: '3rem auto', maxWidth: 600, border: '5px solid aliceblue', boxShadow:'0px 0px 4px 2px teal', padding: 10}}>
-    <h1>Hello Jaunty!</h1>
+    <h1>Hello Abhishek!</h1>
     {/* <Button waves='light'>button</Button> */}
     <p>What a world!</p>
     <div>
