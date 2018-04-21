@@ -3,6 +3,8 @@ import Link from "gatsby-link";
 
 import Box from "../components/box";
 import styles from "../style/index.module.css";
+import "../../node_modules/materialize-css/dist/css/materialize.css";
+import "../../node_modules/materialize-css/dist/js/materialize.js";
 import {Button, Card, CardTitle} from "react-materialize";
 
 
