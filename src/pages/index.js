@@ -14,7 +14,6 @@ export default () =>
     {/* <Button waves='light'>button</Button> */}
     <p>What a world!</p>
     <div>
-      <p>Unsplash random image is cool :)</p>
       {/* <Box>
         <img className={styles.image} src="https://source.unsplash.com/random/400x200" alt="random" />               
       </Box> */}
@@ -25,6 +24,6 @@ export default () =>
     </div>
     <br/>
     <div>  
-        <Link to="/page-2/" className='btn'>page-2</Link>
+        <Link to="/page-2/" className='btn right'>page-2</Link>
     </div>
   </div>
