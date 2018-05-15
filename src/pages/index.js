@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Link from "gatsby-link";
-import Box from "../components/Box";
+import Box from "../components/box";
 import styles from "../style/index.module.css";
 import "../../node_modules/materialize-css/dist/css/materialize.css";
 import { Button, Card, CardTitle } from "react-materialize";
