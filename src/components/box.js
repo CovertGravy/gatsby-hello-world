@@ -1,6 +1,6 @@
 import React from 'react';
 // import swal from 'sweetalert2';
-
+//box
 const box = (props) => {
   
   return (
