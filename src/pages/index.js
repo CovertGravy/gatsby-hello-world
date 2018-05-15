@@ -5,10 +5,10 @@ import styles from "../style/index.module.css";
 import "../../node_modules/materialize-css/dist/css/materialize.css";
 import { Button, Card, CardTitle } from "react-materialize";
 
-
+//box
 
 class IndexPage extends Component {
-
+  
   state = {
     name: 'World!'
   }
