@@ -1,25 +1,3 @@
-.image{
-  margin: 48px;
-  width: 80%;
-  border: 2px ridge black;
-}
-.container{
-  background: lightblue;
-  width:100%;
-  height: 100px;
-}
-.HL{
-  background: blue;
-  color:white;
-  padding:16px;
-}
-
-.covertgravy{
-  display: hidden;
-  background: teal;
-  border:slateblue; 
-  color: slategray;
-}
 
 /* .spinner::before {
   content: "";
