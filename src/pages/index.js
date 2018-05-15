@@ -26,13 +26,13 @@ class IndexPage extends Component {
         <h1>Hello <Box name={this.state.name} namechanged={this.newName} /></h1>
 
         <p>What a world!</p>
-        <div className='unsplash'>
+        {/* <div className='unsplash'>
           <Card className='small black'
             header={<CardTitle image="https://source.unsplash.com/random/400x200">Unsplash random</CardTitle>}>
             Unsplash random image is cool
       </Card>
         </div>
-        <br />
+        <br /> */}
         <div>
           <Link to="/page-2/" className='btn'>page-2</Link>
         </div>
