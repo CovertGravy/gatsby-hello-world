@@ -11,6 +11,7 @@
     "gatsby": "^1.9.250",
     "gatsby-link": "^1.6.40",
     "materialize-css": "^1.0.0-beta",
-    "react-materialize": "^2.2.0"
+    "react-materialize": "^2.2.0",
+    "sweetalert2": "^7.19.1"
   }
 }

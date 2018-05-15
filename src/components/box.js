@@ -1,7 +1,11 @@
 import React from 'react';
+// import swal from 'sweetalert2';
 
-export default ({children}) => (
-  <div style={{background: 'teal', color: 'white', border: '2px ridge black', width: 500, height: 300, maxWidth: 500}}>
-    {children}
-  </div>
-)
+const box = (props) => {
+  
+  return (
+    <span>{props.name} <input type="text" onChange={props.namechanged} value={props.name}/></span>
+  );
+}
+
+export default box;
