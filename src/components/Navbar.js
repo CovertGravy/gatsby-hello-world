@@ -5,7 +5,7 @@ import '../../node_modules/materialize-css/dist/css/materialize.css';
 const navbar = () => {
   return (
     <div className="navbar-fixed">
-    <nav>
+    <nav className="black">
       <div className="nav-wrapper">
         <a href="#!" className="brand-logo center">Logo</a>
         <ul className="left hide-on-med-and-down">
