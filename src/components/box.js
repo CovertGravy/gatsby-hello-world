@@ -12,7 +12,6 @@ const box = (props) => {
           <input type="text"
             id="input1"
             onChange={props.namechanged}
-            value={props.name}
           />
         </div>
       </div>
